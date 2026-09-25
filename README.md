@@ -1,6 +1,3 @@
-# llm-context-meter-legal
-Public legal and support documents for LLM Context &amp; Usage Meter, a browser extension for monitoring AI conversation context usage.
-
 # LLM Context & Usage Meter — Legal and Support
 
 This repository contains the public privacy policy, terms of service,
